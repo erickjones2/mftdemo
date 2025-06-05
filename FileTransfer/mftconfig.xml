@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <MftConfigPlan xmlns="http://xmlns.oracle.com/mft/configPlan/v1">
 	<global>
+	<!-- 06/05/2025 chg 1 -->
 	<!--Add global search and replace rules. Example :
 	<searchReplace>
 		<search>http://my-test-server</search>
